@@ -83,7 +83,7 @@
     <% } %>
     <div class="jumbotron">
       <h1>Bespoke Suits for Dogs</h1>
-      <p><i><b>Whatever</b> you are, be a <b>good</b> one!</i></p>
+      <p style="color:red;"><i><b>Whatever</b> you are, be a <b>good</b> one!</i></p>
     </div>
     <div class="page-header">
       <h1>Our Products</h1>
